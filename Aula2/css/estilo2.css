@@ -1,0 +1,17 @@
+#titulo,
+p {
+    color: aqua;
+}
+
+p.verde {
+    color: green;
+    font-size: 24px;
+}
+
+strong {
+    color: red;
+}
+
+span {
+    color: yellow;
+}

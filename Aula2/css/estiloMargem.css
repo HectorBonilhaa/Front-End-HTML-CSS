@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    font-size: 24px;
+    font-family: Arial;
+    
+}
+.texto1, .texto2{
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    width: 600px;
+    border: 6px solid green;
+    background-color:bisque;
+    padding: 20px;
+    margin: 0;
+}
+.texto2{
+    color:black;
+   margin-left: 0;
+
+}

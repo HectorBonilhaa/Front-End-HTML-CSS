@@ -1,0 +1,18 @@
+h1 {
+    font-family: Times;
+}
+
+#titulo,
+p.missao {
+    color: darksalmon;
+}
+
+.destacar {
+    color: green;
+}
+
+.missao {
+    font-family: Times;
+    font-size: 30px;
+    font-style: italic;
+}
