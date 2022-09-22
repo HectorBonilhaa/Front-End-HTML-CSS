@@ -1,7 +1,13 @@
-article strong {
-    color: yellow;
-}
-
+/*
 .missao strong {
     color: red;
+}
+*/
+/* outro modo de fazer */
+.missao>.teste {
+    color: red;
+}
+
+article>#titulo>strong {
+    color: blue;
 }

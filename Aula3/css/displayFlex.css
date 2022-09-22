@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.container {
+    background-color: red;
+    width: 640px;
+    height: 480px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.elemento {
+    border: 2px solid gray;
+    background-color: green;
+    width: 120px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.elemento1 {
+    border: 2px solid white;
+    background-color: black;
+    width: 60px;
+    height: 60px;
+
+}
